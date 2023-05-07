@@ -111,14 +111,14 @@ body {
     height: 446px;
   }
   .card__img {
-    width: 540px;
+    width: 600px;
     height: 100%;
     background-image: url("../images/image-header-desktop.jpg");
   }
   .card__box {
     display: flex;
     flex-direction: column;
-    margin: 30px 45px;
+    margin: 40px 45px;
     width: 560px;
   }
   .card__text {
@@ -135,7 +135,7 @@ body {
   .card__achievements {
     display: flex;
     justify-content: space-between;
-    margin-top: 50px;
+    margin-top: 40px;
     margin-left: 30px;
     width: 350px;
     text-align: left;
