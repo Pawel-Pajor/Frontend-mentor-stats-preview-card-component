@@ -81,6 +81,9 @@ body {
   font-weight: bold;
   color: var(--main-heading);
 }
+.card__upper {
+  text-transform: uppercase;
+}
 .card__type {
   font-family: "Lexend Deca", sans-serif;
   color: var(--stat-headings);

@@ -90,10 +90,9 @@ body {
         font-size: 1.7em;
         font-weight: bold;
         color: var(--main-heading);
-
-        &--uppercase {
-            text-transform: uppercase;
-        }
+    }
+    &__upper {
+        text-transform: uppercase;
     }
 
     &__type {
